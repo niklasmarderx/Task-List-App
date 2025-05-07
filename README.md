@@ -48,6 +48,3 @@ Die Anwendung bietet ein einfaches Konsolenmenü mit folgenden Optionen:
 
 Alle Aufgaben werden automatisch in einer Datei `aufgaben.dat` gespeichert und beim Programmstart wieder geladen.
 
-## Lizenz
-
-MIT License - siehe [LICENSE](LICENSE) Datei für Details. 
